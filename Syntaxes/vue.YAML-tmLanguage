@@ -159,6 +159,7 @@ patterns:
     end: (?=</(?i:style))
     patterns:
     - include: source.sass
+    - include: source.css
     - include: source.scss
 
 - name: source.scss.embedded.html
@@ -176,6 +177,7 @@ patterns:
     end: (?=</(?i:style))
     patterns:
     - include: source.sass
+    - include: source.css
     - include: source.scss
 
 

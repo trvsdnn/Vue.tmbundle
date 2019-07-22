@@ -531,6 +531,10 @@
 						</dict>
 						<dict>
 							<key>include</key>
+							<string>source.css</string>
+						</dict>
+						<dict>
+							<key>include</key>
 							<string>source.scss</string>
 						</dict>
 					</array>
@@ -586,6 +590,10 @@
 						<dict>
 							<key>include</key>
 							<string>source.sass</string>
+						</dict>
+						<dict>
+							<key>include</key>
+							<string>source.css</string>
 						</dict>
 						<dict>
 							<key>include</key>
